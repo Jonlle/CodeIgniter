@@ -1,0 +1,76 @@
+body {
+	background: #3B5998;
+	font-family: arial;
+}
+
+.message {
+	max-width: 600px;
+	background: #f0f0f0;
+	margin: 90px auto 0;
+	padding: 1em;
+	text-align: center;
+}
+
+.lista {
+	max-width: 550px;
+	background: white;
+	text-align: center;
+	margin: 90px auto;
+	padding: 1em;
+}
+
+#login_form, #signup_form {
+	width: 300px;
+	background: #f0f0f0;
+	margin: 90px auto 0;
+	padding: 1em;
+}
+
+h1,h2,h3,h4,h5 {
+	margin-top: 0;
+	font-family: arial black, arial;
+	text-align: center;
+}
+
+input[type=text], input[type=password] {
+	display: block;
+	margin: 0 0 1em 0;
+	width: 280px;
+	border: 5px;
+	padding: 1em;
+}
+
+input[type=submit], form a {
+	
+	margin-right: 1em;
+	padding: 6px;	
+	font-size: 12px;	
+	background: #348075;
+	color: white;
+	box-shadow: 0 1px 0 white;
+}
+
+input[type=submit]:hover, form a:hover {
+	background: #287368;
+	cursor: pointer;
+}
+
+.msg_error {
+	margin-top: 15px;
+}
+.error {
+	color: #393939;
+	font-size: 15px;
+}
+
+table {
+	margin: auto;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+td, th {
+	padding: 10px;
+}
