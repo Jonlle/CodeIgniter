@@ -12,7 +12,15 @@ body {
 }
 
 .lista {
-	max-width: 350px;
+	max-width: 550px;
+	background:  white;
+	text-align: center;
+	margin: 90px auto;
+	padding: 1em;
+}
+
+.edit {
+	max-width: 320px;
 	background:  white;
 	text-align: center;
 	margin: 90px auto;
@@ -66,10 +74,6 @@ input[type=submit]:hover, form a:hover {
 table {
 	margin: auto;
 }
-
-.edit {
-	width: 300px;
-} 
 
 .red {
 	color: red;

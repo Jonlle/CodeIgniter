@@ -1,7 +1,7 @@
-<div class="lista">
+<div class="edit">
     <form action="<?= base_url("users/update"); ?>" method="post">
     <input type="hidden" name="id" value="<?= $id; ?>" />
-		<table class="edit">
+		<table>
 			<tr>
 				<th colspan="2" class="red">Edit Records</th>
 			</tr>
