@@ -13,7 +13,15 @@ body {
 
 .lista {
 	max-width: 550px;
-	background: white;
+	background:  white;
+	text-align: center;
+	margin: 90px auto;
+	padding: 1em;
+}
+
+.edit {
+	max-width: 320px;
+	background:  white;
 	text-align: center;
 	margin: 90px auto;
 	padding: 1em;
@@ -67,10 +75,28 @@ table {
 	margin: auto;
 }
 
+.red {
+	color: red;
+}	
+
+.btn {
+	text-align: right;
+}
+
 table, th, td {
 	border: 1px solid black;
 }
 
 td, th {
 	padding: 10px;
+	text-align: left;
+}
+
+.edit td {
+	padding: 0px;
+}
+
+.edit input[type=text] {
+	margin: 0;
+	width: 180px;
 }
