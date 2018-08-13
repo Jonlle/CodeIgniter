@@ -227,3 +227,337 @@ INFO - 2018-08-13 01:07:19 --> File loaded: C:\xampp\htdocs\CodeIgniter\applicat
 INFO - 2018-08-13 01:07:19 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/template.php
 INFO - 2018-08-13 01:07:19 --> Final output sent to browser
 DEBUG - 2018-08-13 01:07:19 --> Total execution time: 0.0910
+INFO - 2018-08-13 10:43:35 --> Config Class Initialized
+INFO - 2018-08-13 10:43:35 --> Hooks Class Initialized
+DEBUG - 2018-08-13 10:43:35 --> UTF-8 Support Enabled
+INFO - 2018-08-13 10:43:35 --> Utf8 Class Initialized
+INFO - 2018-08-13 10:43:35 --> URI Class Initialized
+DEBUG - 2018-08-13 10:43:35 --> No URI present. Default controller set.
+INFO - 2018-08-13 10:43:35 --> Router Class Initialized
+INFO - 2018-08-13 10:43:35 --> Output Class Initialized
+INFO - 2018-08-13 10:43:35 --> Security Class Initialized
+DEBUG - 2018-08-13 10:43:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-13 10:43:35 --> Input Class Initialized
+INFO - 2018-08-13 10:43:35 --> Language Class Initialized
+INFO - 2018-08-13 10:43:35 --> Loader Class Initialized
+INFO - 2018-08-13 10:43:35 --> Helper loaded: url_helper
+INFO - 2018-08-13 10:43:35 --> Helper loaded: form_helper
+INFO - 2018-08-13 10:43:35 --> Helper loaded: html_helper
+INFO - 2018-08-13 10:43:35 --> Database Driver Class Initialized
+DEBUG - 2018-08-13 10:43:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-08-13 10:43:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-13 10:43:35 --> Parser Class Initialized
+INFO - 2018-08-13 10:43:35 --> Controller Class Initialized
+INFO - 2018-08-13 10:43:35 --> Model "Users_model" initialized
+INFO - 2018-08-13 10:43:35 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/header.php
+INFO - 2018-08-13 10:43:35 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/footer.php
+INFO - 2018-08-13 10:43:35 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/login_form.php
+INFO - 2018-08-13 10:43:35 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/template.php
+INFO - 2018-08-13 10:43:35 --> Final output sent to browser
+DEBUG - 2018-08-13 10:43:35 --> Total execution time: 0.0800
+INFO - 2018-08-13 10:45:26 --> Config Class Initialized
+INFO - 2018-08-13 10:45:26 --> Hooks Class Initialized
+DEBUG - 2018-08-13 10:45:26 --> UTF-8 Support Enabled
+INFO - 2018-08-13 10:45:26 --> Utf8 Class Initialized
+INFO - 2018-08-13 10:45:26 --> URI Class Initialized
+DEBUG - 2018-08-13 10:45:26 --> No URI present. Default controller set.
+INFO - 2018-08-13 10:45:26 --> Router Class Initialized
+INFO - 2018-08-13 10:45:26 --> Output Class Initialized
+INFO - 2018-08-13 10:45:26 --> Security Class Initialized
+DEBUG - 2018-08-13 10:45:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-13 10:45:26 --> Input Class Initialized
+INFO - 2018-08-13 10:45:26 --> Language Class Initialized
+INFO - 2018-08-13 10:45:26 --> Loader Class Initialized
+INFO - 2018-08-13 10:45:26 --> Helper loaded: url_helper
+INFO - 2018-08-13 10:45:26 --> Helper loaded: form_helper
+INFO - 2018-08-13 10:45:26 --> Helper loaded: html_helper
+INFO - 2018-08-13 10:45:26 --> Database Driver Class Initialized
+DEBUG - 2018-08-13 10:45:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-08-13 10:45:26 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-13 10:45:26 --> Parser Class Initialized
+INFO - 2018-08-13 10:45:26 --> Controller Class Initialized
+INFO - 2018-08-13 10:45:26 --> Model "Users_model" initialized
+INFO - 2018-08-13 10:45:26 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/header.php
+INFO - 2018-08-13 10:45:26 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/footer.php
+INFO - 2018-08-13 10:45:26 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/login_form.php
+INFO - 2018-08-13 10:45:26 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/template.php
+INFO - 2018-08-13 10:45:26 --> Final output sent to browser
+DEBUG - 2018-08-13 10:45:26 --> Total execution time: 0.0650
+INFO - 2018-08-13 10:45:27 --> Config Class Initialized
+INFO - 2018-08-13 10:45:27 --> Hooks Class Initialized
+DEBUG - 2018-08-13 10:45:27 --> UTF-8 Support Enabled
+INFO - 2018-08-13 10:45:27 --> Utf8 Class Initialized
+INFO - 2018-08-13 10:45:27 --> URI Class Initialized
+DEBUG - 2018-08-13 10:45:27 --> No URI present. Default controller set.
+INFO - 2018-08-13 10:45:27 --> Router Class Initialized
+INFO - 2018-08-13 10:45:27 --> Output Class Initialized
+INFO - 2018-08-13 10:45:27 --> Security Class Initialized
+DEBUG - 2018-08-13 10:45:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-13 10:45:27 --> Input Class Initialized
+INFO - 2018-08-13 10:45:27 --> Language Class Initialized
+INFO - 2018-08-13 10:45:27 --> Loader Class Initialized
+INFO - 2018-08-13 10:45:27 --> Helper loaded: url_helper
+INFO - 2018-08-13 10:45:27 --> Helper loaded: form_helper
+INFO - 2018-08-13 10:45:27 --> Helper loaded: html_helper
+INFO - 2018-08-13 10:45:27 --> Database Driver Class Initialized
+DEBUG - 2018-08-13 10:45:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-08-13 10:45:27 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-13 10:45:27 --> Parser Class Initialized
+INFO - 2018-08-13 10:45:27 --> Controller Class Initialized
+INFO - 2018-08-13 10:45:27 --> Model "Users_model" initialized
+INFO - 2018-08-13 10:45:27 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/header.php
+INFO - 2018-08-13 10:45:27 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/footer.php
+INFO - 2018-08-13 10:45:27 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/login_form.php
+INFO - 2018-08-13 10:45:27 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/template.php
+INFO - 2018-08-13 10:45:27 --> Final output sent to browser
+DEBUG - 2018-08-13 10:45:27 --> Total execution time: 0.0840
+INFO - 2018-08-13 10:45:46 --> Config Class Initialized
+INFO - 2018-08-13 10:45:46 --> Hooks Class Initialized
+DEBUG - 2018-08-13 10:45:46 --> UTF-8 Support Enabled
+INFO - 2018-08-13 10:45:46 --> Utf8 Class Initialized
+INFO - 2018-08-13 10:45:46 --> URI Class Initialized
+INFO - 2018-08-13 10:45:46 --> Router Class Initialized
+INFO - 2018-08-13 10:45:46 --> Output Class Initialized
+INFO - 2018-08-13 10:45:46 --> Security Class Initialized
+DEBUG - 2018-08-13 10:45:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-13 10:45:46 --> Input Class Initialized
+INFO - 2018-08-13 10:45:46 --> Language Class Initialized
+INFO - 2018-08-13 10:45:46 --> Loader Class Initialized
+INFO - 2018-08-13 10:45:46 --> Helper loaded: url_helper
+INFO - 2018-08-13 10:45:46 --> Helper loaded: form_helper
+INFO - 2018-08-13 10:45:46 --> Helper loaded: html_helper
+INFO - 2018-08-13 10:45:46 --> Database Driver Class Initialized
+DEBUG - 2018-08-13 10:45:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-08-13 10:45:46 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-13 10:45:46 --> Parser Class Initialized
+INFO - 2018-08-13 10:45:46 --> Controller Class Initialized
+INFO - 2018-08-13 10:45:46 --> Model "Users_model" initialized
+INFO - 2018-08-13 10:45:46 --> Entrando a validate_credentials con: {"username":null,"password":"d41d8cd98f00b204e9800998ecf8427e"}
+INFO - 2018-08-13 10:45:46 --> query->num_rows: 0
+INFO - 2018-08-13 10:45:47 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/header.php
+INFO - 2018-08-13 10:45:47 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/footer.php
+INFO - 2018-08-13 10:45:47 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/wrong_credentials.php
+INFO - 2018-08-13 10:45:47 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/template.php
+INFO - 2018-08-13 10:45:47 --> Final output sent to browser
+DEBUG - 2018-08-13 10:45:47 --> Total execution time: 0.1320
+INFO - 2018-08-13 10:48:49 --> Config Class Initialized
+INFO - 2018-08-13 10:48:49 --> Hooks Class Initialized
+DEBUG - 2018-08-13 10:48:49 --> UTF-8 Support Enabled
+INFO - 2018-08-13 10:48:49 --> Utf8 Class Initialized
+INFO - 2018-08-13 10:48:49 --> URI Class Initialized
+INFO - 2018-08-13 10:48:49 --> Router Class Initialized
+INFO - 2018-08-13 10:48:49 --> Output Class Initialized
+INFO - 2018-08-13 10:48:49 --> Security Class Initialized
+DEBUG - 2018-08-13 10:48:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-13 10:48:49 --> Input Class Initialized
+INFO - 2018-08-13 10:48:49 --> Language Class Initialized
+INFO - 2018-08-13 10:48:49 --> Loader Class Initialized
+INFO - 2018-08-13 10:48:49 --> Helper loaded: url_helper
+INFO - 2018-08-13 10:48:49 --> Helper loaded: form_helper
+INFO - 2018-08-13 10:48:49 --> Helper loaded: html_helper
+INFO - 2018-08-13 10:48:49 --> Database Driver Class Initialized
+DEBUG - 2018-08-13 10:48:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-08-13 10:48:49 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-13 10:48:49 --> Parser Class Initialized
+INFO - 2018-08-13 10:48:49 --> Controller Class Initialized
+INFO - 2018-08-13 10:48:49 --> Model "Users_model" initialized
+INFO - 2018-08-13 10:48:49 --> Entrando a validate_credentials con: {"username":null,"password":"d41d8cd98f00b204e9800998ecf8427e"}
+INFO - 2018-08-13 10:48:49 --> query->num_rows: 0
+INFO - 2018-08-13 10:48:49 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/header.php
+INFO - 2018-08-13 10:48:49 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/footer.php
+INFO - 2018-08-13 10:48:49 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/wrong_credentials.php
+INFO - 2018-08-13 10:48:49 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/template.php
+INFO - 2018-08-13 10:48:49 --> Final output sent to browser
+DEBUG - 2018-08-13 10:48:49 --> Total execution time: 0.0670
+INFO - 2018-08-13 10:56:03 --> Config Class Initialized
+INFO - 2018-08-13 10:56:03 --> Hooks Class Initialized
+DEBUG - 2018-08-13 10:56:03 --> UTF-8 Support Enabled
+INFO - 2018-08-13 10:56:03 --> Utf8 Class Initialized
+INFO - 2018-08-13 10:56:03 --> URI Class Initialized
+INFO - 2018-08-13 10:56:03 --> Router Class Initialized
+INFO - 2018-08-13 10:56:03 --> Output Class Initialized
+INFO - 2018-08-13 10:56:03 --> Security Class Initialized
+DEBUG - 2018-08-13 10:56:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-13 10:56:03 --> Input Class Initialized
+INFO - 2018-08-13 10:56:03 --> Language Class Initialized
+INFO - 2018-08-13 10:56:03 --> Loader Class Initialized
+INFO - 2018-08-13 10:56:03 --> Helper loaded: url_helper
+INFO - 2018-08-13 10:56:03 --> Helper loaded: form_helper
+INFO - 2018-08-13 10:56:03 --> Helper loaded: html_helper
+INFO - 2018-08-13 10:56:03 --> Database Driver Class Initialized
+DEBUG - 2018-08-13 10:56:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-08-13 10:56:03 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-13 10:56:03 --> Parser Class Initialized
+INFO - 2018-08-13 10:56:03 --> Controller Class Initialized
+INFO - 2018-08-13 10:56:03 --> Model "Users_model" initialized
+INFO - 2018-08-13 10:56:03 --> Entrando a validate_credentials con: {"username":null,"password":"d41d8cd98f00b204e9800998ecf8427e"}
+INFO - 2018-08-13 10:56:03 --> query->num_rows: 0
+INFO - 2018-08-13 10:56:03 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/header.php
+INFO - 2018-08-13 10:56:03 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/footer.php
+INFO - 2018-08-13 10:56:03 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/wrong_credentials.php
+INFO - 2018-08-13 10:56:03 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/template.php
+INFO - 2018-08-13 10:56:03 --> Final output sent to browser
+DEBUG - 2018-08-13 10:56:03 --> Total execution time: 0.0730
+INFO - 2018-08-13 10:56:05 --> Config Class Initialized
+INFO - 2018-08-13 10:56:05 --> Hooks Class Initialized
+DEBUG - 2018-08-13 10:56:05 --> UTF-8 Support Enabled
+INFO - 2018-08-13 10:56:05 --> Utf8 Class Initialized
+INFO - 2018-08-13 10:56:05 --> URI Class Initialized
+DEBUG - 2018-08-13 10:56:05 --> No URI present. Default controller set.
+INFO - 2018-08-13 10:56:05 --> Router Class Initialized
+INFO - 2018-08-13 10:56:05 --> Output Class Initialized
+INFO - 2018-08-13 10:56:05 --> Security Class Initialized
+DEBUG - 2018-08-13 10:56:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-13 10:56:05 --> Input Class Initialized
+INFO - 2018-08-13 10:56:05 --> Language Class Initialized
+INFO - 2018-08-13 10:56:05 --> Loader Class Initialized
+INFO - 2018-08-13 10:56:05 --> Helper loaded: url_helper
+INFO - 2018-08-13 10:56:05 --> Helper loaded: form_helper
+INFO - 2018-08-13 10:56:05 --> Helper loaded: html_helper
+INFO - 2018-08-13 10:56:05 --> Database Driver Class Initialized
+DEBUG - 2018-08-13 10:56:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-08-13 10:56:05 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-13 10:56:05 --> Parser Class Initialized
+INFO - 2018-08-13 10:56:05 --> Controller Class Initialized
+INFO - 2018-08-13 10:56:05 --> Model "Users_model" initialized
+INFO - 2018-08-13 10:56:05 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/header.php
+INFO - 2018-08-13 10:56:05 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/footer.php
+INFO - 2018-08-13 10:56:05 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/login_form.php
+INFO - 2018-08-13 10:56:05 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/template.php
+INFO - 2018-08-13 10:56:05 --> Final output sent to browser
+DEBUG - 2018-08-13 10:56:05 --> Total execution time: 0.0710
+INFO - 2018-08-13 10:56:06 --> Config Class Initialized
+INFO - 2018-08-13 10:56:06 --> Hooks Class Initialized
+DEBUG - 2018-08-13 10:56:06 --> UTF-8 Support Enabled
+INFO - 2018-08-13 10:56:06 --> Utf8 Class Initialized
+INFO - 2018-08-13 10:56:06 --> URI Class Initialized
+DEBUG - 2018-08-13 10:56:06 --> No URI present. Default controller set.
+INFO - 2018-08-13 10:56:06 --> Router Class Initialized
+INFO - 2018-08-13 10:56:06 --> Output Class Initialized
+INFO - 2018-08-13 10:56:06 --> Security Class Initialized
+DEBUG - 2018-08-13 10:56:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-13 10:56:06 --> Input Class Initialized
+INFO - 2018-08-13 10:56:06 --> Language Class Initialized
+INFO - 2018-08-13 10:56:06 --> Loader Class Initialized
+INFO - 2018-08-13 10:56:06 --> Helper loaded: url_helper
+INFO - 2018-08-13 10:56:06 --> Helper loaded: form_helper
+INFO - 2018-08-13 10:56:06 --> Helper loaded: html_helper
+INFO - 2018-08-13 10:56:06 --> Database Driver Class Initialized
+DEBUG - 2018-08-13 10:56:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-08-13 10:56:06 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-13 10:56:06 --> Parser Class Initialized
+INFO - 2018-08-13 10:56:06 --> Controller Class Initialized
+INFO - 2018-08-13 10:56:06 --> Model "Users_model" initialized
+INFO - 2018-08-13 10:56:06 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/header.php
+INFO - 2018-08-13 10:56:06 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/footer.php
+INFO - 2018-08-13 10:56:06 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/login_form.php
+INFO - 2018-08-13 10:56:06 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/template.php
+INFO - 2018-08-13 10:56:06 --> Final output sent to browser
+DEBUG - 2018-08-13 10:56:06 --> Total execution time: 0.0720
+INFO - 2018-08-13 10:56:10 --> Config Class Initialized
+INFO - 2018-08-13 10:56:10 --> Hooks Class Initialized
+DEBUG - 2018-08-13 10:56:10 --> UTF-8 Support Enabled
+INFO - 2018-08-13 10:56:10 --> Utf8 Class Initialized
+INFO - 2018-08-13 10:56:10 --> URI Class Initialized
+INFO - 2018-08-13 10:56:10 --> Router Class Initialized
+INFO - 2018-08-13 10:56:10 --> Output Class Initialized
+INFO - 2018-08-13 10:56:10 --> Security Class Initialized
+DEBUG - 2018-08-13 10:56:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-13 10:56:10 --> Input Class Initialized
+INFO - 2018-08-13 10:56:10 --> Language Class Initialized
+INFO - 2018-08-13 10:56:10 --> Loader Class Initialized
+INFO - 2018-08-13 10:56:10 --> Helper loaded: url_helper
+INFO - 2018-08-13 10:56:10 --> Helper loaded: form_helper
+INFO - 2018-08-13 10:56:10 --> Helper loaded: html_helper
+INFO - 2018-08-13 10:56:10 --> Database Driver Class Initialized
+DEBUG - 2018-08-13 10:56:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-08-13 10:56:10 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-13 10:56:10 --> Parser Class Initialized
+INFO - 2018-08-13 10:56:10 --> Controller Class Initialized
+INFO - 2018-08-13 10:56:10 --> Model "Users_model" initialized
+INFO - 2018-08-13 10:56:10 --> Entrando a validate_credentials con: {"username":"Jonlle","password":"1b7ae33978ee65098e1b9374dc5a2aa9"}
+INFO - 2018-08-13 10:56:10 --> query->num_rows: 1
+INFO - 2018-08-13 10:56:10 --> Datos Usuario: [{"id":"6","first_name":"Jhonatan","last_name":"Llerena","username":"Jonlle","password":"1b7ae33978ee65098e1b9374dc5a2aa9","email_address":"jonlle@gmail.com","role":"admin"}]
+INFO - 2018-08-13 10:56:10 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/header.php
+INFO - 2018-08-13 10:56:10 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/footer.php
+INFO - 2018-08-13 10:56:10 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/logged_in_area.php
+INFO - 2018-08-13 10:56:10 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/template.php
+INFO - 2018-08-13 10:56:10 --> Final output sent to browser
+DEBUG - 2018-08-13 10:56:10 --> Total execution time: 0.0610
+INFO - 2018-08-13 10:56:12 --> Config Class Initialized
+INFO - 2018-08-13 10:56:12 --> Hooks Class Initialized
+DEBUG - 2018-08-13 10:56:12 --> UTF-8 Support Enabled
+INFO - 2018-08-13 10:56:12 --> Utf8 Class Initialized
+INFO - 2018-08-13 10:56:12 --> URI Class Initialized
+INFO - 2018-08-13 10:56:12 --> Router Class Initialized
+INFO - 2018-08-13 10:56:12 --> Output Class Initialized
+INFO - 2018-08-13 10:56:12 --> Security Class Initialized
+DEBUG - 2018-08-13 10:56:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-13 10:56:12 --> Input Class Initialized
+INFO - 2018-08-13 10:56:12 --> Language Class Initialized
+INFO - 2018-08-13 10:56:12 --> Loader Class Initialized
+INFO - 2018-08-13 10:56:12 --> Helper loaded: url_helper
+INFO - 2018-08-13 10:56:12 --> Helper loaded: form_helper
+INFO - 2018-08-13 10:56:12 --> Helper loaded: html_helper
+INFO - 2018-08-13 10:56:12 --> Database Driver Class Initialized
+DEBUG - 2018-08-13 10:56:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-08-13 10:56:12 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-13 10:56:12 --> Parser Class Initialized
+INFO - 2018-08-13 10:56:12 --> Controller Class Initialized
+INFO - 2018-08-13 10:56:12 --> Model "Users_model" initialized
+INFO - 2018-08-13 10:56:12 --> mostrando lista de usuarios data: [{"id":"6","first_name":"Jhonatan","last_name":"Llerena","username":"Jonlle","password":"1b7ae33978ee65098e1b9374dc5a2aa9","email_address":"jonlle@gmail.com","role":"admin"},{"id":"7","first_name":"Jennifer","last_name":"Cadiz","username":"Jcadiz","password":"7d83de820beee9022b2521527078e722","email_address":"jen_cadiz@gmail.com","role":"user"},{"id":"24","first_name":"Jorge","last_name":"Ramirez","username":"jramirez","password":"81dc9bdb52d04dc20036dbd8313ed055","email_address":"jramirez@gmail.com","role":"user"}]
+INFO - 2018-08-13 10:56:12 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/header.php
+INFO - 2018-08-13 10:56:12 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/footer.php
+INFO - 2018-08-13 10:56:12 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/user.php
+INFO - 2018-08-13 10:56:12 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/template.php
+INFO - 2018-08-13 10:56:12 --> Final output sent to browser
+DEBUG - 2018-08-13 10:56:12 --> Total execution time: 0.0900
+INFO - 2018-08-13 10:56:14 --> Config Class Initialized
+INFO - 2018-08-13 10:56:14 --> Hooks Class Initialized
+DEBUG - 2018-08-13 10:56:14 --> UTF-8 Support Enabled
+INFO - 2018-08-13 10:56:14 --> Utf8 Class Initialized
+INFO - 2018-08-13 10:56:14 --> URI Class Initialized
+INFO - 2018-08-13 10:56:14 --> Router Class Initialized
+INFO - 2018-08-13 10:56:14 --> Output Class Initialized
+INFO - 2018-08-13 10:56:15 --> Security Class Initialized
+DEBUG - 2018-08-13 10:56:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-13 10:56:15 --> Input Class Initialized
+INFO - 2018-08-13 10:56:15 --> Language Class Initialized
+INFO - 2018-08-13 10:56:15 --> Loader Class Initialized
+INFO - 2018-08-13 10:56:15 --> Helper loaded: url_helper
+INFO - 2018-08-13 10:56:15 --> Helper loaded: form_helper
+INFO - 2018-08-13 10:56:15 --> Helper loaded: html_helper
+INFO - 2018-08-13 10:56:15 --> Database Driver Class Initialized
+DEBUG - 2018-08-13 10:56:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-08-13 10:56:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-13 10:56:15 --> Parser Class Initialized
+INFO - 2018-08-13 10:56:15 --> Controller Class Initialized
+INFO - 2018-08-13 10:56:15 --> Model "Users_model" initialized
+INFO - 2018-08-13 10:56:15 --> Config Class Initialized
+INFO - 2018-08-13 10:56:15 --> Hooks Class Initialized
+DEBUG - 2018-08-13 10:56:15 --> UTF-8 Support Enabled
+INFO - 2018-08-13 10:56:15 --> Utf8 Class Initialized
+INFO - 2018-08-13 10:56:15 --> URI Class Initialized
+DEBUG - 2018-08-13 10:56:15 --> No URI present. Default controller set.
+INFO - 2018-08-13 10:56:15 --> Router Class Initialized
+INFO - 2018-08-13 10:56:15 --> Output Class Initialized
+INFO - 2018-08-13 10:56:15 --> Security Class Initialized
+DEBUG - 2018-08-13 10:56:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-08-13 10:56:15 --> Input Class Initialized
+INFO - 2018-08-13 10:56:15 --> Language Class Initialized
+INFO - 2018-08-13 10:56:15 --> Loader Class Initialized
+INFO - 2018-08-13 10:56:15 --> Helper loaded: url_helper
+INFO - 2018-08-13 10:56:15 --> Helper loaded: form_helper
+INFO - 2018-08-13 10:56:15 --> Helper loaded: html_helper
+INFO - 2018-08-13 10:56:15 --> Database Driver Class Initialized
+DEBUG - 2018-08-13 10:56:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-08-13 10:56:15 --> Session: Class initialized using 'files' driver.
+INFO - 2018-08-13 10:56:15 --> Parser Class Initialized
+INFO - 2018-08-13 10:56:15 --> Controller Class Initialized
+INFO - 2018-08-13 10:56:15 --> Model "Users_model" initialized
+INFO - 2018-08-13 10:56:15 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/header.php
+INFO - 2018-08-13 10:56:15 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/footer.php
+INFO - 2018-08-13 10:56:15 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/login_form.php
+INFO - 2018-08-13 10:56:15 --> File loaded: C:\xampp\htdocs\CodeIgniter\application\views\users/layouts/template.php
+INFO - 2018-08-13 10:56:15 --> Final output sent to browser
+DEBUG - 2018-08-13 10:56:15 --> Total execution time: 0.0540
