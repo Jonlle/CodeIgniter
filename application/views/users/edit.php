@@ -1,18 +1,12 @@
-<div class = "lista">
+<div class="lista">
     <form action="<?= base_url("users/update"); ?>" method="post">
     <input type="hidden" name="id" value="<?= $id; ?>" />
-		<table border="1">
+		<table class="edit">
 			<tr>
-				<td colspan="2">
-					<b>
-						<font color='Red'>Edit Records </font>
-					</b>
-				</td>
+				<th colspan="2" class="red">Edit Records</th>
 			</tr>
 			<tr>
-				<td width="179">
-					<b>Username</b>
-				</td>
+				<th>Username</th>
 				<td>
 					<label>
 						<input type="text" name="username" value="<?= $username; ?>" />
@@ -21,9 +15,7 @@
 			</tr>
 
 			<tr>
-				<td width="179">
-					<b>Email Address</b>
-				</td>
+				<th>Email</th>
 				<td>
 					<label>
 						<input type="text" name="email_address" value="<?= $email_address; ?>" />
@@ -32,9 +24,7 @@
 			</tr>
 
 			<tr>
-				<td width="179">
-					<b>Role</b>
-				</td>
+				<th>Role</th>
 				<td>
 					<label>
 						<input type="text" name="role" value="<?= $role; ?>" />
@@ -42,12 +32,12 @@
 				</td>
 			</tr>
 
-			<tr align="Right">
-				<td colspan="2">
+			<tr>
+				<th class="btn" colspan="2">
 					<label>
 						<input type="submit" name="submit" value="Edit Records">
 					</label>
-				</td>
+				</th>
 			</tr>
 		</table>
 	</form>
